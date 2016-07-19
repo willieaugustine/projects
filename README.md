@@ -1,7 +1,13 @@
 # projects
 
-project name
 link to the repo
+https://github.com/willieaugustine/phone/blob/master/index.html
 project details-mini readme
-tools used-foundation,html,css,python
-contributors-link to their github details
+Features One-page website NavBar Links:
+
+    Home
+    About us
+    Portfolio
+    Contact us
+
+Tools Foundation 6 jquery
