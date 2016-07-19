@@ -11,3 +11,5 @@ Features One-page website NavBar Links:
     Contact us
 
 Tools Foundation 6 jquery
+contributers
+Augustine Mulwa
