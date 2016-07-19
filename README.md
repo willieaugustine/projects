@@ -2,7 +2,7 @@
 
 link to the repo
 https://github.com/willieaugustine/phone/blob/master/index.html
-project details-mini readme
+
 Features One-page website NavBar Links:
 
     Home
@@ -11,5 +11,6 @@ Features One-page website NavBar Links:
     Contact us
 
 Tools Foundation 6 jquery
+
 contributers
 Augustine Mulwa
