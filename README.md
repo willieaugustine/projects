@@ -28,3 +28,19 @@ Augustine Mulwa
   Augustine mulwa
   
   
+  project 3
+  link to repo
+  https://github.com/willieaugustine/kejafiti/edit/master/README.md
+  features a two-page website for advertising rental houses in kenya
+  a nav bar with 
+  home
+  about us
+  portfolio
+  location
+  contact us
+  tools foundation 6 jquery
+  animation
+  contributors
+  augustine willie
+  
+  
