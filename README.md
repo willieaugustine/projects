@@ -19,10 +19,12 @@ Augustine Mulwa
   link to repo
   https://github.com/willieaugustine/hotelskenya
   features one-page website navBar Links
-  Home
-  About us
-  Portfolio
-  Contact us
+  
+    Home
+    About us
+    Portfolio
+    Contact us
+
   Tools Foundation 6 jquery
   contributors
   Augustine mulwa
@@ -33,14 +35,15 @@ Augustine Mulwa
   https://github.com/willieaugustine/kejafiti/edit/master/README.md
   features a two-page website for advertising rental houses in kenya
   a nav bar with 
-  home
-  about us
-  portfolio
-  location
-  contact us
+ 
+    Home
+    About us
+    Portfolio
+    Contact us
+    location
   tools foundation 6 jquery
-  animation
-  contributors
-  augustine willie
+   animation
+   contributors
+   augustine willie
   
   
