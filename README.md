@@ -23,4 +23,8 @@ Augustine Mulwa
   About us
   Portfolio
   Contact us
+  Tools Foundation 6 jquery
+  contributors
+  Augustine mulwa
+  
   
