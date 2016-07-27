@@ -21,7 +21,7 @@ Tools Foundation 6 jquery
 contributers
 Augustine Mulwa
   
-  **project 2         
+  #project 2         
          link to repo
         https://github.com/willieaugustine/hotelskenya
          features one-page website navBar Links
@@ -36,7 +36,8 @@ Augustine Mulwa
   Augustine mulwa
   
   
-  **project 3
+  #project 3
+  
         link to repo
          https://github.com/willieaugustine/kejafiti/edit/master/README.md
         features a two-page website for advertising rental houses in kenya
