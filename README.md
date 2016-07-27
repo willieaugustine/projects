@@ -4,8 +4,11 @@ link to the repo
 
 https://github.com/willieaugustine/portfolio
 
-# projects 1
+# projects 
 
+        Front End projects
+        
+        project name:phone
 link to the repo
 https://github.com/willieaugustine/phone/blob/master/index.html
 
@@ -23,7 +26,7 @@ Augustine Mulwa
   
   #project 2 
   
-  
+        project name:hotelskenya
          link to repo
          
          
@@ -38,12 +41,15 @@ Augustine Mulwa
     Contact us
 
   Tools Foundation 6 jquery
+        javascript
+        animation
   contributors
   Augustine mulwa
   
   
   #project 3
-  
+        project name:kejafiti
+        
         link to repo
         
         
@@ -63,7 +69,8 @@ Augustine Mulwa
   tools         
         foundation 6 jquery
         animation
-        contributors
+        javascript
+      contributors
         augustine willie
   
   
