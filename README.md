@@ -2,10 +2,9 @@
 #Portfolio
 link to the repo
 
+https://github.com/willieaugustine/portfolio
 
-
-
-# projects
+# projects 1
 
 link to the repo
 https://github.com/willieaugustine/phone/blob/master/index.html
@@ -22,10 +21,10 @@ Tools Foundation 6 jquery
 contributers
 Augustine Mulwa
   
-  project 2 
-  link to repo
-  https://github.com/willieaugustine/hotelskenya
-  features one-page website navBar Links
+  project 2         
+         link to repo
+        https://github.com/willieaugustine/hotelskenya
+         features one-page website navBar Links
   
     Home
     About us
@@ -38,19 +37,20 @@ Augustine Mulwa
   
   
   project 3
-  link to repo
-  https://github.com/willieaugustine/kejafiti/edit/master/README.md
-  features a two-page website for advertising rental houses in kenya
-  a nav bar with 
+         link to repo
+         https://github.com/willieaugustine/kejafiti/edit/master/README.md
+        features a two-page website for advertising rental houses in kenya
+        a nav bar with 
  
     Home
     About us
     Portfolio
     Contact us
     location
-  tools foundation 6 jquery
-   animation
-   contributors
-   augustine willie
+  tools         
+        foundation 6 jquery
+        animation
+        contributors
+        augustine willie
   
   
